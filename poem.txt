@@ -1,0 +1,4 @@
+Rust is the language of the future,
+Fast, safe, and very secure.
+In the terminal, we search for a clue,
+Building a tool that is honest and true.
